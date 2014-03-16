@@ -1,6 +1,6 @@
 {
   "name": "wechat-qrcode",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "generate qrcode in wechat",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rogerz/wechat-qrcode"
+    "url": "https://github.com/wechat-bots/qrcode"
   },
   "keywords": [
     "wechat wechat-bot qrcode"
@@ -16,7 +16,7 @@
   "author": "Rogerz Zhang <rogerz.zhang@gmail.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/rogerz/wechat-qrcode/issues"
+    "url": "https://github.com/wechat-bots/qrcode/issues"
   },
   "dependencies": {
     "hat": "0.0.3",
