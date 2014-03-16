@@ -21,7 +21,8 @@
   "dependencies": {
     "hat": "0.0.3",
     "debug": "^0.7.4",
-    "qr-js": "^1.1.1"
+    "qr-js": "^1.1.1",
+    "mkdirp": "^0.3.5"
   },
   "devDependencies": {
     "chai": "~1.8.1",
